@@ -9,8 +9,8 @@ import uvicorn
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
-df_completo=pd.read_csv(r'Datasets/Data_ETL_EDA.csv')
+enlace_csv = 'https://drive.google.com/file/d/1CpUW8UUiQ6eZOy9DBzAA-wwaXqkDaeqd/view?usp=drive_link'
+df_completo=pd.read_csv(enlace_csv)
 
 app = FastAPI()
 
