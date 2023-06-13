@@ -47,7 +47,7 @@ The status of this project is in its MVP (Minimum Viable Product) version. The E
 
 <h1>Project Access</h1>
 
- 📁 [Proyect01_MLOps](https://github.com/LeanGJ/Proyect01_MLOps)
+ 📁 [Proyect_MLOps](https://github.com/LeanGJ/Proyect_MLOps)
 
 **Accessing this folder you will be able to see all the necessary files to be able to assemble and execute the project (does not include dataset)**
 
