@@ -1,6 +1,6 @@
 <h1 align="center"> Individual Project 1 - Machine Learning Operations </h1>  
 
-![plataformas](https://user-images.githubusercontent.com/111822554/227330956-c9a28349-0949-4a61-9d08-4bdd20112a32.jpeg)  
+![plataformas](https://e1.pxfuel.com/desktop-wallpaper/821/506/desktop-wallpaper-movies-generic-film-home-theater-backdrops-backgrounds-generic.jpg)  
 
 <h1>Índex</h1>
 
